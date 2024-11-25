@@ -1,0 +1,14 @@
+<html>
+
+    <body>
+        <h1 id="header"></h1>
+        <p id="paragraph"></p>
+        <script>
+        //My Heading:
+            documanet.getElementById("myH").innerHTML = "JavaScript Comments";
+        //My paragraph:
+            documanet.getElementById("myP").innerHTML = "My First Paraghraph";
+        </script>
+    </body>
+
+</html>
